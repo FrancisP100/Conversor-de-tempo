@@ -30,5 +30,5 @@ main()
 
         break;
     }
-    printf("%dd equivale a %.0f%c", x, res, unidade);
+    printf("%d equivale a %.0f%c", x, res, unidade);
 }
