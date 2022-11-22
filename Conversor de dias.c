@@ -26,7 +26,7 @@ main()
 
     default:
            printf("Unidade   inválida\n"); 
-
+/* Depois de aprender C# posso criar uma interface gráfica para estes projectos */
 
         break;
     }
