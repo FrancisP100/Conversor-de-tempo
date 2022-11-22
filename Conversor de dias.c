@@ -3,13 +3,13 @@ main()
 {
      long int x;
     float res;
-    char unity;
+    char unidade;
  /* Estor a aprender novas coisas vais curtir bué*/
     printf("Escolha um número de dias: \n");
     scanf("%d",&x);
     printf("Deseja ver em (H/M/A): \n");
-    scanf(" %c",&unity);
- switch (unity)
+    scanf(" %c",&unidade);
+ switch (unidade)
     {
     case 'H' :
     case 'h' :
@@ -30,5 +30,5 @@ main()
 
         break;
     }
-    printf("%dd equivale a %.0f%c", x, res, unity);
+    printf("%dd equivale a %.0f%c", x, res, unidade);
 }
