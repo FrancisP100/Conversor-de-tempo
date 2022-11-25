@@ -4,7 +4,8 @@ main()
      long int x;
     float res;
     char unidade;
- /* Estor a aprender novas coisas vais curtir bué*/
+ /* Utilidade questionável
+ Estor a aprender novas coisas vais curtir bué*/
     printf("Escolha um número de dias: \n");
     scanf("%d",&x);
     printf("Deseja ver em (H/M/A): \n");
