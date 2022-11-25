@@ -25,9 +25,9 @@ main()
         break;
 
     default:
-           printf("Unidade   invalida\n"); 
+           printf("Unidade   inválida\n"); 
 
-
+    /* Utilidade questionável não? */
         break;
     }
     printf("%dh equivale a %.0f%c", x, res, unidade);
